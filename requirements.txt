@@ -5,3 +5,4 @@ Matplotlib
 Joblib
 streamlit
 Seaborn
+Altair
